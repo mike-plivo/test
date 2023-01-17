@@ -1,4 +1,6 @@
-PLIVO_AUTH_ID = "MAXEJDEL89789DSNMDSDSJDD"
-PLIVO_AUTH_TOKEN = "DndwndkjnmS7892789DSJMNSDMNB"
+# test
+
+plivo_auth_id = "MAXEJDEL89789DSNMDSDSJDD"
+plivo_auth_token = "DndwndkjnmS7892789DSJMNSDMNB"
 
 # fake test
